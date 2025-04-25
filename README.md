@@ -1,11 +1,12 @@
-## Bem-vindo(a) ao perfil do daniel hiroshi 😁
+## Bem-vindo(a) ao perfil do danieliroshi
+ 😁
 
  <div>
-   <a href="https://github.com/danieliroshi">
+   <a href="https://github.com/danieliroshi
+">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieliroshi
-&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieliroshi
-&layout=compact&langs_count=6&theme=radical"/>
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -19,6 +20,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="[[https://www.instagram.com/df__9631/]]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
